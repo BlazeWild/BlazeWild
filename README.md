@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋.
+These are my C++ projects.
 
 <!--
 **BlazeWild/BlazeWild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
