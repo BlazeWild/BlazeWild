@@ -1,3 +1,4 @@
+![Logo](https://github.com/BlazeWild/BlazeWild/blob/main/Ashok%20Bk.png)
 <h1 align="center">Hi 👋, I'm Ashok Bk</h1>
 <h3 align="center">A passionate Data Science and ML learner from Nepal</h3>
 
