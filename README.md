@@ -1,6 +1,6 @@
 ![Logo](https://github.com/BlazeWild/BlazeWild/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ashok Bk</h1>
-<h3 align="center">A passionate AI/ML learner and game developer from Nepal </h3>
+<h3 align="center">A passionate AI/ML learner  from Nepal </h3>
 
 <img align="right" alt="AI" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
