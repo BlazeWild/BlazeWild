@@ -26,7 +26,7 @@
   </a>
   <!-- Personal Website with Favicon -->
   <a href="https://asokbk.com.np/" target="blank">
-    <img align="center" src="https://asokbk.com.np/favicon.ico" alt="website" height="30" width="30" />
+    <img align="center" src="https://asokbk.com.np/assets/logo-D5r-JA6_.png" alt="website" height="30" width="30" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
