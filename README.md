@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Large Language Diffusion Models**
 
-- 📫 How to reach me **ashokbk215@gmail.com**
+<!-- - 📫 How to reach me **ashokbk215@gmail.com** /-->
 
 - ⚡ Fun fact **I am funny😅**
 
