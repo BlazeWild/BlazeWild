@@ -12,16 +12,17 @@
 
 - ⚡ Fun fact **I am funny😅**
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/asokbk/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashok-bk-a0240b240" height="30" width="40" />
   </a>
-    <!-- Personal Website with Favicon -->
+
   <a href="https://asokbk.com.np/" target="blank">
     <img align="center" src="https://asokbk.com.np/assets/logo-D5r-JA6_.png" alt="website" height="30" width="30" />
   </a>
-    <!-- Upwork -->
+
   <a href="https://www.upwork.com/freelancers/~0105d1381c0e5c953a" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg" alt="upwork" height="30" width="40" />
   </a>
@@ -29,7 +30,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashok_eam" height="30" width="40" />
   </a>
 
-
+/-->
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
